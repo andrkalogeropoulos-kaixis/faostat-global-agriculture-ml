@@ -51,13 +51,17 @@ The study executes an end-to-end analytical workflow: starting with complex data
 
 ---
 
-## 📁 Repository Structure
-```text
-├── data/                       # FAOSTAT raw CSVs & shapefiles
-├── notebooks/
-│   └── faostat_agricultural_analysis.ipynb   # Complete analysis notebook
-├── outputs/                    # Exported choropleth maps, PCA & timeline plots (.png)
-├── measurement_units.csv       # Extracted mapping reference table
-├── df_code.csv                 # Country vs aggregate code reference
-├── README.md                   # Complete documentation
-└── requirements.txt            # Python dependencies
+## 📦 How to Run the Notebook
+
+### Option 1: Run Online (Recommended)
+You can open and execute the interactive notebook directly on Kaggle with all pre-configured execution environments:
+👉 [Open on Kaggle](https://www.kaggle.com/code/andreaskalog/global-agricultural-production-analytical-mappin)
+
+---
+
+### Option 2: Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/andrkalogeropoulos-kaixis/Crop-Yield-Prediction-Pipeline.git](https://github.com/andrkalogeropoulos-kaixis/Crop-Yield-Prediction-Pipeline.git)
+   cd Crop-Yield-Prediction-Pipeline

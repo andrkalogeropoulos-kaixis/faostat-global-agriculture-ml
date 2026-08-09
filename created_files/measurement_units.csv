@@ -1,0 +1,731 @@
+Item,Element,Unit
+"Abaca, manila hemp, raw",Area harvested,ha
+"Abaca, manila hemp, raw",Production,t
+"Abaca, manila hemp, raw",Yield,kg/ha
+"Agave fibres, raw, n.e.c.",Area harvested,ha
+"Agave fibres, raw, n.e.c.",Production,t
+"Agave fibres, raw, n.e.c.",Yield,kg/ha
+"Almonds, in shell",Area harvested,ha
+"Almonds, in shell",Production,t
+"Almonds, in shell",Yield,kg/ha
+"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",Area harvested,ha
+"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",Production,t
+"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",Yield,kg/ha
+Apples,Area harvested,ha
+Apples,Production,t
+Apples,Yield,kg/ha
+Apricots,Area harvested,ha
+Apricots,Production,t
+Apricots,Yield,kg/ha
+Areca nuts,Area harvested,ha
+Areca nuts,Production,t
+Areca nuts,Yield,kg/ha
+Artichokes,Area harvested,ha
+Artichokes,Production,t
+Artichokes,Yield,kg/ha
+Asparagus,Area harvested,ha
+Asparagus,Production,t
+Asparagus,Yield,kg/ha
+Asses,Stocks,An
+Avocados,Area harvested,ha
+Avocados,Production,t
+Avocados,Yield,kg/ha
+"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",Production,t
+"Bambara beans, dry",Area harvested,ha
+"Bambara beans, dry",Production,t
+"Bambara beans, dry",Yield,kg/ha
+Bananas,Area harvested,ha
+Bananas,Production,t
+Bananas,Yield,kg/ha
+Barley,Area harvested,ha
+Barley,Production,t
+Barley,Yield,kg/ha
+"Beans, dry",Area harvested,ha
+"Beans, dry",Production,t
+"Beans, dry",Yield,kg/ha
+"Beef and Buffalo Meat, primary",Producing Animals/Slaughtered,An
+"Beef and Buffalo Meat, primary",Production,t
+"Beef and Buffalo Meat, primary",Yield/Carcass Weight,100 g/An
+"Beer of barley, malted",Production,t
+Bees,Stocks,No
+Beeswax,Production,t
+Blueberries,Area harvested,ha
+Blueberries,Production,t
+Blueberries,Yield,kg/ha
+"Brazil nuts, in shell",Production,t
+"Broad beans and horse beans, dry",Area harvested,ha
+"Broad beans and horse beans, dry",Production,t
+"Broad beans and horse beans, dry",Yield,kg/ha
+"Broad beans and horse beans, green",Area harvested,ha
+"Broad beans and horse beans, green",Production,t
+"Broad beans and horse beans, green",Yield,kg/ha
+Buckwheat,Area harvested,ha
+Buckwheat,Production,t
+Buckwheat,Yield,kg/ha
+Buffalo,Stocks,An
+"Buffalo fat, unrendered",Producing Animals/Slaughtered,An
+"Buffalo fat, unrendered",Production,t
+Butter and Ghee,Production,t
+Butter and ghee of sheep milk,Production,t
+Butter of buffalo milk,Production,t
+Butter of cow milk,Production,t
+Butter of goat milk,Production,t
+"Buttermilk, dry",Production,t
+Cabbages,Area harvested,ha
+Cabbages,Production,t
+Cabbages,Yield,kg/ha
+Camels,Stocks,An
+Canary seed,Area harvested,ha
+Canary seed,Production,t
+Canary seed,Yield,kg/ha
+Cantaloupes and other melons,Area harvested,ha
+Cantaloupes and other melons,Production,t
+Cantaloupes and other melons,Yield,kg/ha
+Carrots and turnips,Area harvested,ha
+Carrots and turnips,Production,t
+Carrots and turnips,Yield,kg/ha
+"Cashew nuts, in shell",Area harvested,ha
+"Cashew nuts, in shell",Production,t
+"Cashew nuts, in shell",Yield,kg/ha
+Cashewapple,Area harvested,ha
+Cashewapple,Production,t
+Cashewapple,Yield,kg/ha
+Cassava leaves,Area harvested,ha
+Cassava leaves,Production,t
+Cassava leaves,Yield,kg/ha
+"Cassava, fresh",Area harvested,ha
+"Cassava, fresh",Production,t
+"Cassava, fresh",Yield,kg/ha
+Castor oil seeds,Area harvested,ha
+Castor oil seeds,Production,t
+Castor oil seeds,Yield,kg/ha
+Cattle,Stocks,An
+Cattle and Buffaloes,Stocks,An
+"Cattle fat, unrendered",Producing Animals/Slaughtered,An
+"Cattle fat, unrendered",Production,t
+Cauliflowers and broccoli,Area harvested,ha
+Cauliflowers and broccoli,Production,t
+Cauliflowers and broccoli,Yield,kg/ha
+Cereals n.e.c.,Area harvested,ha
+Cereals n.e.c.,Production,t
+Cereals n.e.c.,Yield,kg/ha
+"Cereals, primary",Area harvested,ha
+"Cereals, primary",Production,t
+"Cereals, primary",Yield,kg/ha
+Cheese (All Kinds),Production,t
+"Cheese from milk of buffalo, fresh or processed",Production,t
+"Cheese from milk of goats, fresh or processed",Production,t
+"Cheese from milk of sheep, fresh or processed",Production,t
+Cheese from skimmed cow milk,Production,t
+Cheese from whole cow milk,Production,t
+Cherries,Area harvested,ha
+Cherries,Production,t
+Cherries,Yield,kg/ha
+"Chestnuts, in shell",Area harvested,ha
+"Chestnuts, in shell",Production,t
+"Chestnuts, in shell",Yield,kg/ha
+"Chick peas, dry",Area harvested,ha
+"Chick peas, dry",Production,t
+"Chick peas, dry",Yield,kg/ha
+Chickens,Stocks,1000 An
+Chicory roots,Area harvested,ha
+Chicory roots,Production,t
+Chicory roots,Yield,kg/ha
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",Area harvested,ha
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",Production,t
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",Yield,kg/ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",Area harvested,ha
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",Production,t
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",Yield,kg/ha
+"Cinnamon and cinnamon-tree flowers, raw",Area harvested,ha
+"Cinnamon and cinnamon-tree flowers, raw",Production,t
+"Cinnamon and cinnamon-tree flowers, raw",Yield,kg/ha
+"Citrus Fruit, Total",Area harvested,ha
+"Citrus Fruit, Total",Production,t
+"Citrus Fruit, Total",Yield,kg/ha
+"Cloves (whole stems), raw",Area harvested,ha
+"Cloves (whole stems), raw",Production,t
+"Cloves (whole stems), raw",Yield,kg/ha
+Cocoa beans,Area harvested,ha
+Cocoa beans,Production,t
+Cocoa beans,Yield,kg/ha
+Coconut oil,Production,t
+"Coconuts, in shell",Area harvested,ha
+"Coconuts, in shell",Production,t
+"Coconuts, in shell",Yield,kg/ha
+"Coffee, green",Area harvested,ha
+"Coffee, green",Production,t
+"Coffee, green",Yield,kg/ha
+"Coir, raw",Area harvested,ha
+"Coir, raw",Production,t
+"Cotton lint, ginned",Production,t
+Cotton seed,Production,t
+Cottonseed oil,Production,t
+"Cow peas, dry",Area harvested,ha
+"Cow peas, dry",Production,t
+"Cow peas, dry",Yield,kg/ha
+Cranberries,Area harvested,ha
+Cranberries,Production,t
+Cranberries,Yield,kg/ha
+"Cream, fresh",Production,t
+Cucumbers and gherkins,Area harvested,ha
+Cucumbers and gherkins,Production,t
+Cucumbers and gherkins,Yield,kg/ha
+Currants,Area harvested,ha
+Currants,Production,t
+Currants,Yield,kg/ha
+Dates,Area harvested,ha
+Dates,Production,t
+Dates,Yield,kg/ha
+Ducks,Stocks,1000 An
+"Edible offal of buffalo, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offal of buffalo, fresh, chilled or frozen",Production,t
+"Edible offal of cattle, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offal of cattle, fresh, chilled or frozen",Production,t
+"Edible offal of goat, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offal of goat, fresh, chilled or frozen",Production,t
+"Edible offal of pigs, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offal of pigs, fresh, chilled or frozen",Production,t
+"Edible offal of sheep, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offal of sheep, fresh, chilled or frozen",Production,t
+"Edible offals of camels and other camelids, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offals of camels and other camelids, fresh, chilled or frozen",Production,t
+"Edible offals of horses and other equines,  fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Edible offals of horses and other equines,  fresh, chilled or frozen",Production,t
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",Area harvested,ha
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",Production,t
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",Yield,kg/ha
+Eggplants (aubergines),Area harvested,ha
+Eggplants (aubergines),Production,t
+Eggplants (aubergines),Yield,kg/ha
+Eggs Primary,Laying,1000 An
+Eggs Primary,Production,t
+Eggs Primary,Yield,100 mg/An
+"Eggs from other birds in shell, fresh, n.e.c.",Laying,1000 An
+"Eggs from other birds in shell, fresh, n.e.c.",Production,t
+"Eggs from other birds in shell, fresh, n.e.c.",Production,1000 No
+"Eggs from other birds in shell, fresh, n.e.c.",Yield,100 mg/An
+"Eggs from other birds in shell, fresh, n.e.c.",Yield,No/An
+Evaporated & Condensed Milk,Production,t
+Fat of camels,Producing Animals/Slaughtered,An
+Fat of camels,Production,t
+Fat of pigs,Producing Animals/Slaughtered,An
+Fat of pigs,Production,t
+"Fibre Crops, Fibre Equivalent",Area harvested,ha
+"Fibre Crops, Fibre Equivalent",Production,t
+"Fibre Crops, Fibre Equivalent",Yield,kg/ha
+Figs,Area harvested,ha
+Figs,Production,t
+Figs,Yield,kg/ha
+"Flax, raw or retted",Area harvested,ha
+"Flax, raw or retted",Production,t
+"Flax, raw or retted",Yield,kg/ha
+Fonio,Area harvested,ha
+Fonio,Production,t
+Fonio,Yield,kg/ha
+Fruit Primary,Area harvested,ha
+Fruit Primary,Production,t
+Fruit Primary,Yield,kg/ha
+"Game meat, fresh, chilled or frozen",Producing Animals/Slaughtered,An
+"Game meat, fresh, chilled or frozen",Production,t
+"Game meat, fresh, chilled or frozen",Yield/Carcass Weight,100 g/An
+Geese,Stocks,1000 An
+Ghee from buffalo milk,Production,t
+Ghee from cow milk,Production,t
+"Ginger, raw",Area harvested,ha
+"Ginger, raw",Production,t
+"Ginger, raw",Yield,kg/ha
+"Goat fat, unrendered",Producing Animals/Slaughtered,An
+"Goat fat, unrendered",Production,t
+Goats,Stocks,An
+Gooseberries,Area harvested,ha
+Gooseberries,Production,t
+Gooseberries,Yield,kg/ha
+Grapes,Area harvested,ha
+Grapes,Production,t
+Grapes,Yield,kg/ha
+Green corn (maize),Area harvested,ha
+Green corn (maize),Production,t
+Green corn (maize),Yield,kg/ha
+Green garlic,Area harvested,ha
+Green garlic,Production,t
+Green garlic,Yield,kg/ha
+"Green tea (not fermented), black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg",Production,t
+Groundnut oil,Production,t
+"Groundnuts, excluding shelled",Area harvested,ha
+"Groundnuts, excluding shelled",Production,t
+"Groundnuts, excluding shelled",Yield,kg/ha
+"Hazelnuts, in shell",Area harvested,ha
+"Hazelnuts, in shell",Production,t
+"Hazelnuts, in shell",Yield,kg/ha
+Hempseed,Area harvested,ha
+Hempseed,Production,t
+Hempseed,Yield,kg/ha
+"Hen eggs in shell, fresh",Laying,1000 An
+"Hen eggs in shell, fresh",Production,t
+"Hen eggs in shell, fresh",Production,1000 No
+"Hen eggs in shell, fresh",Yield,100 mg/An
+"Hen eggs in shell, fresh",Yield,No/An
+Hop cones,Area harvested,ha
+Hop cones,Production,t
+Hop cones,Yield,kg/ha
+"Horse meat, fresh or chilled",Producing Animals/Slaughtered,An
+"Horse meat, fresh or chilled",Production,t
+"Horse meat, fresh or chilled",Yield/Carcass Weight,100 g/An
+Horses,Stocks,An
+Jojoba seeds,Area harvested,ha
+Jojoba seeds,Production,t
+Jojoba seeds,Yield,kg/ha
+"Jute, raw or retted",Area harvested,ha
+"Jute, raw or retted",Production,t
+"Jute, raw or retted",Yield,kg/ha
+"Kapok fibre, raw",Production,t
+Kapok fruit,Area harvested,ha
+Kapok fruit,Production,t
+Kapok fruit,Yield,kg/ha
+Kapokseed in shell,Production,t
+Karite nuts (sheanuts),Area harvested,ha
+Karite nuts (sheanuts),Production,t
+Karite nuts (sheanuts),Yield,kg/ha
+"Kenaf, and other textile bast fibres, raw or retted",Area harvested,ha
+"Kenaf, and other textile bast fibres, raw or retted",Production,t
+"Kenaf, and other textile bast fibres, raw or retted",Yield,kg/ha
+Kiwi fruit,Area harvested,ha
+Kiwi fruit,Production,t
+Kiwi fruit,Yield,kg/ha
+Kola nuts,Area harvested,ha
+Kola nuts,Production,t
+Kola nuts,Yield,kg/ha
+Leeks and other alliaceous vegetables,Area harvested,ha
+Leeks and other alliaceous vegetables,Production,t
+Leeks and other alliaceous vegetables,Yield,kg/ha
+Lemons and limes,Area harvested,ha
+Lemons and limes,Production,t
+Lemons and limes,Yield,kg/ha
+"Lentils, dry",Area harvested,ha
+"Lentils, dry",Production,t
+"Lentils, dry",Yield,kg/ha
+Lettuce and chicory,Area harvested,ha
+Lettuce and chicory,Production,t
+Lettuce and chicory,Yield,kg/ha
+Linseed,Area harvested,ha
+Linseed,Production,t
+Linseed,Yield,kg/ha
+Locust beans (carobs),Area harvested,ha
+Locust beans (carobs),Production,t
+Locust beans (carobs),Yield,kg/ha
+Lupins,Area harvested,ha
+Lupins,Production,t
+Lupins,Yield,kg/ha
+Maize (corn),Area harvested,ha
+Maize (corn),Production,t
+Maize (corn),Yield,kg/ha
+"Mangoes, guavas and mangosteens",Area harvested,ha
+"Mangoes, guavas and mangosteens",Production,t
+"Mangoes, guavas and mangosteens",Yield,kg/ha
+Margarine and shortening,Production,t
+Maté leaves,Area harvested,ha
+Maté leaves,Production,t
+Maté leaves,Yield,kg/ha
+"Meat of asses, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of asses, fresh or chilled",Production,t
+"Meat of asses, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of buffalo, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of buffalo, fresh or chilled",Production,t
+"Meat of buffalo, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of camels, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of camels, fresh or chilled",Production,t
+"Meat of camels, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of cattle with the bone, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of cattle with the bone, fresh or chilled",Production,t
+"Meat of cattle with the bone, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of chickens, fresh or chilled",Producing Animals/Slaughtered,1000 An
+"Meat of chickens, fresh or chilled",Production,t
+"Meat of chickens, fresh or chilled",Yield/Carcass Weight,0.1 g/An
+"Meat of ducks, fresh or chilled",Producing Animals/Slaughtered,1000 An
+"Meat of ducks, fresh or chilled",Production,t
+"Meat of ducks, fresh or chilled",Yield/Carcass Weight,0.1 g/An
+"Meat of geese, fresh or chilled",Producing Animals/Slaughtered,1000 An
+"Meat of geese, fresh or chilled",Production,t
+"Meat of geese, fresh or chilled",Yield/Carcass Weight,0.1 g/An
+"Meat of goat, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of goat, fresh or chilled",Production,t
+"Meat of goat, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of mules, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of mules, fresh or chilled",Production,t
+"Meat of mules, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of other domestic camelids, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of other domestic camelids, fresh or chilled",Production,t
+"Meat of other domestic camelids, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of other domestic rodents, fresh or chilled",Producing Animals/Slaughtered,1000 An
+"Meat of other domestic rodents, fresh or chilled",Production,t
+"Meat of other domestic rodents, fresh or chilled",Yield/Carcass Weight,0.1 g/An
+"Meat of pig with the bone, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of pig with the bone, fresh or chilled",Production,t
+"Meat of pig with the bone, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",Producing Animals/Slaughtered,1000 An
+"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",Production,t
+"Meat of pigeons and other birds n.e.c., fresh, chilled or frozen",Yield/Carcass Weight,0.1 g/An
+"Meat of rabbits and hares, fresh or chilled",Producing Animals/Slaughtered,1000 An
+"Meat of rabbits and hares, fresh or chilled",Production,t
+"Meat of rabbits and hares, fresh or chilled",Yield/Carcass Weight,0.1 g/An
+"Meat of sheep, fresh or chilled",Producing Animals/Slaughtered,An
+"Meat of sheep, fresh or chilled",Production,t
+"Meat of sheep, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Meat of turkeys, fresh or chilled",Producing Animals/Slaughtered,1000 An
+"Meat of turkeys, fresh or chilled",Production,t
+"Meat of turkeys, fresh or chilled",Yield/Carcass Weight,0.1 g/An
+"Meat, Poultry",Producing Animals/Slaughtered,1000 An
+"Meat, Poultry",Production,t
+"Meat, Poultry",Yield/Carcass Weight,0.1 g/An
+"Meat, Total",Production,t
+"Meat, Total",Stocks,1000 An
+Melonseed,Area harvested,ha
+Melonseed,Production,t
+Melonseed,Yield,kg/ha
+"Milk, Total",Milk Animals,An
+"Milk, Total",Production,t
+"Milk, Total",Yield,100 g/An
+Millet,Area harvested,ha
+Millet,Production,t
+Millet,Yield,kg/ha
+Mixed grain,Area harvested,ha
+Mixed grain,Production,t
+Mixed grain,Yield,kg/ha
+Molasses,Production,t
+Mules and hinnies,Stocks,An
+Mushrooms and truffles,Production,t
+Mustard seed,Area harvested,ha
+Mustard seed,Production,t
+Mustard seed,Yield,kg/ha
+Natural honey,Production,t
+Natural rubber in primary forms,Area harvested,ha
+Natural rubber in primary forms,Production,t
+Natural rubber in primary forms,Yield,kg/ha
+"Nutmeg, mace, cardamoms, raw",Area harvested,ha
+"Nutmeg, mace, cardamoms, raw",Production,t
+"Nutmeg, mace, cardamoms, raw",Yield,kg/ha
+Oats,Area harvested,ha
+Oats,Production,t
+Oats,Yield,kg/ha
+Oil of linseed,Production,t
+Oil of maize,Production,t
+Oil of palm kernel,Production,t
+Oil of sesame seed,Production,t
+Oil palm fruit,Area harvested,ha
+Oil palm fruit,Production,t
+Oil palm fruit,Yield,kg/ha
+"Oilcrops, Cake Equivalent",Area harvested,ha
+"Oilcrops, Cake Equivalent",Production,t
+"Oilcrops, Cake Equivalent",Yield,kg/ha
+"Oilcrops, Oil Equivalent",Area harvested,ha
+"Oilcrops, Oil Equivalent",Production,t
+"Oilcrops, Oil Equivalent",Yield,kg/ha
+Okra,Area harvested,ha
+Okra,Production,t
+Okra,Yield,kg/ha
+Olive oil,Production,t
+Olives,Area harvested,ha
+Olives,Production,t
+Olives,Yield,kg/ha
+"Onions and shallots, dry (excluding dehydrated)",Area harvested,ha
+"Onions and shallots, dry (excluding dehydrated)",Production,t
+"Onions and shallots, dry (excluding dehydrated)",Yield,kg/ha
+"Onions and shallots, green",Area harvested,ha
+"Onions and shallots, green",Production,t
+"Onions and shallots, green",Yield,kg/ha
+Oranges,Area harvested,ha
+Oranges,Production,t
+Oranges,Yield,kg/ha
+"Other beans, green",Area harvested,ha
+"Other beans, green",Production,t
+"Other beans, green",Yield,kg/ha
+Other berries and fruits of the genus vaccinium n.e.c.,Area harvested,ha
+Other berries and fruits of the genus vaccinium n.e.c.,Production,t
+Other berries and fruits of the genus vaccinium n.e.c.,Yield,kg/ha
+Other birds,Stocks,1000 An
+Other camelids,Stocks,An
+"Other citrus fruit, n.e.c.",Area harvested,ha
+"Other citrus fruit, n.e.c.",Production,t
+"Other citrus fruit, n.e.c.",Yield,kg/ha
+"Other fibre crops, raw, n.e.c.",Area harvested,ha
+"Other fibre crops, raw, n.e.c.",Production,t
+"Other fibre crops, raw, n.e.c.",Yield,kg/ha
+"Other fruits, n.e.c.",Area harvested,ha
+"Other fruits, n.e.c.",Production,t
+"Other fruits, n.e.c.",Yield,kg/ha
+"Other meat of mammals, fresh or chilled",Producing Animals/Slaughtered,An
+"Other meat of mammals, fresh or chilled",Production,t
+"Other meat of mammals, fresh or chilled",Yield/Carcass Weight,100 g/An
+"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Area harvested,ha
+"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Production,t
+"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Yield,kg/ha
+"Other oil seeds, n.e.c.",Area harvested,ha
+"Other oil seeds, n.e.c.",Production,t
+"Other oil seeds, n.e.c.",Yield,kg/ha
+Other pome fruits,Area harvested,ha
+Other pome fruits,Production,t
+Other pome fruits,Yield,kg/ha
+Other pulses n.e.c.,Area harvested,ha
+Other pulses n.e.c.,Production,t
+Other pulses n.e.c.,Yield,kg/ha
+Other rodents,Stocks,1000 An
+"Other stimulant, spice and aromatic crops, n.e.c.",Area harvested,ha
+"Other stimulant, spice and aromatic crops, n.e.c.",Production,t
+"Other stimulant, spice and aromatic crops, n.e.c.",Yield,kg/ha
+Other stone fruits,Area harvested,ha
+Other stone fruits,Production,t
+Other stone fruits,Yield,kg/ha
+Other sugar crops n.e.c.,Area harvested,ha
+Other sugar crops n.e.c.,Production,t
+Other sugar crops n.e.c.,Yield,kg/ha
+"Other tropical fruits, n.e.c.",Area harvested,ha
+"Other tropical fruits, n.e.c.",Production,t
+"Other tropical fruits, n.e.c.",Yield,kg/ha
+"Other vegetables, fresh n.e.c.",Area harvested,ha
+"Other vegetables, fresh n.e.c.",Production,t
+"Other vegetables, fresh n.e.c.",Yield,kg/ha
+Palm kernels,Production,t
+Palm oil,Production,t
+Papayas,Area harvested,ha
+Papayas,Production,t
+Papayas,Yield,kg/ha
+Peaches and nectarines,Area harvested,ha
+Peaches and nectarines,Production,t
+Peaches and nectarines,Yield,kg/ha
+Pears,Area harvested,ha
+Pears,Production,t
+Pears,Yield,kg/ha
+"Peas, dry",Area harvested,ha
+"Peas, dry",Production,t
+"Peas, dry",Yield,kg/ha
+"Peas, green",Area harvested,ha
+"Peas, green",Production,t
+"Peas, green",Yield,kg/ha
+"Pepper (Piper spp.), raw",Area harvested,ha
+"Pepper (Piper spp.), raw",Production,t
+"Pepper (Piper spp.), raw",Yield,kg/ha
+"Peppermint, spearmint",Area harvested,ha
+"Peppermint, spearmint",Production,t
+"Peppermint, spearmint",Yield,kg/ha
+Persimmons,Area harvested,ha
+Persimmons,Production,t
+Persimmons,Yield,kg/ha
+"Pig fat, rendered",Production,t
+"Pigeon peas, dry",Area harvested,ha
+"Pigeon peas, dry",Production,t
+"Pigeon peas, dry",Yield,kg/ha
+Pineapples,Area harvested,ha
+Pineapples,Production,t
+Pineapples,Yield,kg/ha
+"Pistachios, in shell",Area harvested,ha
+"Pistachios, in shell",Production,t
+"Pistachios, in shell",Yield,kg/ha
+Plantains and cooking bananas,Area harvested,ha
+Plantains and cooking bananas,Production,t
+Plantains and cooking bananas,Yield,kg/ha
+Plums and sloes,Area harvested,ha
+Plums and sloes,Production,t
+Plums and sloes,Yield,kg/ha
+Pomelos and grapefruits,Area harvested,ha
+Pomelos and grapefruits,Production,t
+Pomelos and grapefruits,Yield,kg/ha
+Poppy seed,Area harvested,ha
+Poppy seed,Production,t
+Poppy seed,Yield,kg/ha
+Potatoes,Area harvested,ha
+Potatoes,Production,t
+Potatoes,Yield,kg/ha
+Poultry Birds,Stocks,1000 An
+"Pulses, Total",Area harvested,ha
+"Pulses, Total",Production,t
+"Pulses, Total",Yield,kg/ha
+"Pumpkins, squash and gourds",Area harvested,ha
+"Pumpkins, squash and gourds",Production,t
+"Pumpkins, squash and gourds",Yield,kg/ha
+"Pyrethrum, dried flowers",Area harvested,ha
+"Pyrethrum, dried flowers",Production,t
+"Pyrethrum, dried flowers",Yield,kg/ha
+Quinces,Area harvested,ha
+Quinces,Production,t
+Quinces,Yield,kg/ha
+Quinoa,Area harvested,ha
+Quinoa,Production,t
+Quinoa,Yield,kg/ha
+Rabbits and hares,Stocks,1000 An
+"Ramie, raw or retted",Area harvested,ha
+"Ramie, raw or retted",Production,t
+"Ramie, raw or retted",Yield,kg/ha
+Rape or colza seed,Area harvested,ha
+Rape or colza seed,Production,t
+Rape or colza seed,Yield,kg/ha
+"Rapeseed or canola oil, crude",Production,t
+Raspberries,Area harvested,ha
+Raspberries,Production,t
+Raspberries,Yield,kg/ha
+Raw cane or beet sugar (centrifugal only),Production,t
+Raw hides and skins of buffaloes,Producing Animals/Slaughtered,An
+Raw hides and skins of buffaloes,Production,t
+Raw hides and skins of buffaloes,Yield,100 g/An
+Raw hides and skins of cattle,Producing Animals/Slaughtered,An
+Raw hides and skins of cattle,Production,t
+Raw hides and skins of cattle,Yield,100 g/An
+Raw hides and skins of goats or kids,Producing Animals/Slaughtered,An
+Raw hides and skins of goats or kids,Production,t
+Raw hides and skins of goats or kids,Yield,100 g/An
+Raw hides and skins of sheep or lambs,Producing Animals/Slaughtered,An
+Raw hides and skins of sheep or lambs,Production,t
+Raw hides and skins of sheep or lambs,Yield,100 g/An
+Raw milk of buffalo,Milk Animals,An
+Raw milk of buffalo,Production,t
+Raw milk of buffalo,Yield,100 g/An
+Raw milk of camel,Milk Animals,An
+Raw milk of camel,Production,t
+Raw milk of camel,Yield,100 g/An
+Raw milk of cattle,Milk Animals,An
+Raw milk of cattle,Production,t
+Raw milk of cattle,Yield,100 g/An
+Raw milk of goats,Milk Animals,An
+Raw milk of goats,Production,t
+Raw milk of goats,Yield,100 g/An
+Raw milk of sheep,Milk Animals,An
+Raw milk of sheep,Production,t
+Raw milk of sheep,Yield,100 g/An
+Raw silk (not thrown),Production,t
+Rice,Area harvested,ha
+Rice,Production,t
+Rice,Yield,kg/ha
+"Roots and Tubers, Total",Area harvested,ha
+"Roots and Tubers, Total",Production,t
+"Roots and Tubers, Total",Yield,kg/ha
+Rye,Area harvested,ha
+Rye,Production,t
+Rye,Yield,kg/ha
+Safflower seed,Area harvested,ha
+Safflower seed,Production,t
+Safflower seed,Yield,kg/ha
+"Safflower-seed oil, crude",Production,t
+"Seed cotton, unginned",Area harvested,ha
+"Seed cotton, unginned",Production,t
+"Seed cotton, unginned",Yield,kg/ha
+Sesame seed,Area harvested,ha
+Sesame seed,Production,t
+Sesame seed,Yield,kg/ha
+Sheep,Stocks,An
+Sheep and Goat Meat,Producing Animals/Slaughtered,An
+Sheep and Goat Meat,Production,t
+Sheep and Goat Meat,Yield/Carcass Weight,100 g/An
+Sheep and Goats,Stocks,An
+"Sheep fat, unrendered",Producing Animals/Slaughtered,An
+"Sheep fat, unrendered",Production,t
+"Shorn wool, greasy, including fleece-washed shorn wool",Production,t
+Silk-worm cocoons suitable for reeling,Production,t
+"Sisal, raw",Area harvested,ha
+"Sisal, raw",Production,t
+"Sisal, raw",Yield,kg/ha
+"Skim Milk & Buttermilk, Dry",Production,t
+Skim milk and whey powder,Production,t
+Skim milk of cows,Production,t
+"Skim milk, condensed",Production,t
+"Skim milk, evaporated",Production,t
+"Snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails",Producing Animals/Slaughtered,An
+"Snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails",Production,t
+Sorghum,Area harvested,ha
+Sorghum,Production,t
+Sorghum,Yield,kg/ha
+Sour cherries,Area harvested,ha
+Sour cherries,Production,t
+Sour cherries,Yield,kg/ha
+Soya bean oil,Production,t
+Soya beans,Area harvested,ha
+Soya beans,Production,t
+Soya beans,Yield,kg/ha
+Spinach,Area harvested,ha
+Spinach,Production,t
+Spinach,Yield,kg/ha
+Strawberries,Area harvested,ha
+Strawberries,Production,t
+Strawberries,Yield,kg/ha
+String beans,Area harvested,ha
+String beans,Production,t
+String beans,Yield,kg/ha
+Sugar Crops Primary,Area harvested,ha
+Sugar Crops Primary,Production,t
+Sugar Crops Primary,Yield,kg/ha
+Sugar beet,Area harvested,ha
+Sugar beet,Production,t
+Sugar beet,Yield,kg/ha
+Sugar cane,Area harvested,ha
+Sugar cane,Production,t
+Sugar cane,Yield,kg/ha
+Sunflower seed,Area harvested,ha
+Sunflower seed,Production,t
+Sunflower seed,Yield,kg/ha
+"Sunflower-seed oil, crude",Production,t
+Sweet potatoes,Area harvested,ha
+Sweet potatoes,Production,t
+Sweet potatoes,Yield,kg/ha
+Swine / pigs,Stocks,An
+Tallow,Production,t
+Tallowtree seeds,Area harvested,ha
+Tallowtree seeds,Production,t
+Tallowtree seeds,Yield,kg/ha
+"Tangerines, mandarins, clementines",Area harvested,ha
+"Tangerines, mandarins, clementines",Production,t
+"Tangerines, mandarins, clementines",Yield,kg/ha
+Taro,Area harvested,ha
+Taro,Production,t
+Taro,Yield,kg/ha
+Tea leaves,Area harvested,ha
+Tea leaves,Production,t
+Tea leaves,Yield,kg/ha
+Tomatoes,Area harvested,ha
+Tomatoes,Production,t
+Tomatoes,Yield,kg/ha
+"Treenuts, Total",Area harvested,ha
+"Treenuts, Total",Production,t
+"Treenuts, Total",Yield,kg/ha
+Triticale,Area harvested,ha
+Triticale,Production,t
+Triticale,Yield,kg/ha
+"True hemp, raw or retted",Area harvested,ha
+"True hemp, raw or retted",Production,t
+"True hemp, raw or retted",Yield,kg/ha
+Tung nuts,Area harvested,ha
+Tung nuts,Production,t
+Tung nuts,Yield,kg/ha
+Turkeys,Stocks,1000 An
+Unmanufactured tobacco,Area harvested,ha
+Unmanufactured tobacco,Production,t
+Unmanufactured tobacco,Yield,kg/ha
+"Vanilla, raw",Area harvested,ha
+"Vanilla, raw",Production,t
+"Vanilla, raw",Yield,kg/ha
+Vegetables Primary,Area harvested,ha
+Vegetables Primary,Production,t
+Vegetables Primary,Yield,kg/ha
+Vetches,Area harvested,ha
+Vetches,Production,t
+Vetches,Yield,kg/ha
+"Walnuts, in shell",Area harvested,ha
+"Walnuts, in shell",Production,t
+"Walnuts, in shell",Yield,kg/ha
+Watermelons,Area harvested,ha
+Watermelons,Production,t
+Watermelons,Yield,kg/ha
+Wheat,Area harvested,ha
+Wheat,Production,t
+Wheat,Yield,kg/ha
+"Whey, condensed",Production,t
+"Whey, dry",Production,t
+Whole milk powder,Production,t
+"Whole milk, condensed",Production,t
+"Whole milk, evaporated",Production,t
+Wine,Production,t
+Yams,Area harvested,ha
+Yams,Production,t
+Yams,Yield,kg/ha
+Yautia,Area harvested,ha
+Yautia,Production,t
+Yautia,Yield,kg/ha
+Yoghurt,Production,t

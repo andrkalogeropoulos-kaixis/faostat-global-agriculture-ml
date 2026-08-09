@@ -49,10 +49,9 @@ The study executes an end-to-end analytical workflow: starting with complex data
   * *Grapes:* Captured the drop during the **1993 EEC Vine Grubbing Scheme (Reg. 1442/88)** and its post-2012 crisis rebound.
   * *Wheat/Cotton:* Tracked post-1981 EEC accession growth and the post-2004 CAP subsidy decoupling shift.
 
-<table>
-  <tr>
+<p align="center">
     <td><img src="diagrams/timeline_production_greece.png" alt="Timeline of Production in Greece (1980 - 2021)" width="400"></td>
-</table>
+</p>
 
 * **Greece vs. EU Benchmark (2021):** Demonstrated Greece's **+41% yield advantage in Maize (11.20 t/ha vs 7.90 t/ha)** due to climate and irrigation, outperforming the EU in Olives, but trailing in rainfed Wheat.
 

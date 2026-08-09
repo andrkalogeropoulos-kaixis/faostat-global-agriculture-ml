@@ -21,19 +21,29 @@ The study executes an end-to-end analytical workflow: starting with complex data
 * **Entity Disambiguation:** Leveraged FAOSTAT M49 coding rules ($Area Code \ge 5000$) and handled special cases (China Code 351) to strictly isolate **210 standalone country entities** from **35 regional aggregates**, eliminating double-counting risks.
 
 ### 2. Exploratory Commodity & Yield Diagnostics
+
+* **Global Output Leaders:** Evaluated mass vs. nutrient production, identifying **Sugar cane** (>2.02B tonnes) and **Maize** (1.24B tonnes) as global drivers.
+
 <table>
   <tr>
     <td><img src="diagrams/top_10_products_2023.png" alt="Top-10 Agricultural Products in Global Production (2023)" width="400"></td>
     <td><img src="diagrams/top_10_products_greece_2021.png" alt="Top-10 Agricultural Products of Greece (2021)" width="400"></td>
   </tr>
 </table>
-
-* **Global Output Leaders:** Evaluated mass vs. nutrient production, identifying **Sugar cane** (>2.02B tonnes) and **Maize** (1.24B tonnes) as global drivers.
+  
 * **Domestic Baseline (Greece):** Mapped Greek output dominated by **Olives** (>3.04M tonnes) followed by Maize (1.35M t), Wheat (1.16M t), and specialized **Sheep Milk** (~952K t) for traditional dairy/feta production.
 * **Livestock Efficiency Paradox:** Revealed that while cattle lead global milk yield per animal (3,105 kg/An) compared to sheep (77 kg/An), Greece achieves high national sheep milk volumes through elevated livestock population density.
 
 ### 3. Spatial GIS & Historical Policy Analysis (1980–2021)
 * **Commodity Spatial Hotspots:** Generated choropleth maps highlighting the geographic concentration of **Olives** in the Mediterranean belt vs. widespread global **Maize/Wheat** distribution.
+
+<table>
+  <tr>
+    <td><img src="maps/olives_production_map_2021.png" alt="World Olive Production Map (2021)" width="400"></td>
+    <td><img src="maps/maize_production_map_2023.png" alt="World Map for Yield of Maize (Corn) (2023)" width="400"></td>
+  </tr>
+</table>
+
 * **40-Year Greek Temporal Timeline:** Tracked how agricultural output is shaped by policy and economics:
   * *Olives:* Visualized biological **alternate bearing** (biennial yield swings).
   * *Grapes:* Captured the drop during the **1993 EEC Vine Grubbing Scheme (Reg. 1442/88)** and its post-2012 crisis rebound.

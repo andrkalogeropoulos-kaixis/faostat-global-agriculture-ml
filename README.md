@@ -27,6 +27,7 @@ The study executes an end-to-end analytical workflow: starting with complex data
     <td><img src="diagrams/top_10_products_greece_2021.png" alt="Top-10 Agricultural Products of Greece (2021)" width="400"></td>
   </tr>
 </table>
+
 * **Global Output Leaders:** Evaluated mass vs. nutrient production, identifying **Sugar cane** (>2.02B tonnes) and **Maize** (1.24B tonnes) as global drivers.
 * **Domestic Baseline (Greece):** Mapped Greek output dominated by **Olives** (>3.04M tonnes) followed by Maize (1.35M t), Wheat (1.16M t), and specialized **Sheep Milk** (~952K t) for traditional dairy/feta production.
 * **Livestock Efficiency Paradox:** Revealed that while cattle lead global milk yield per animal (3,105 kg/An) compared to sheep (77 kg/An), Greece achieves high national sheep milk volumes through elevated livestock population density.
